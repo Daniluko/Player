@@ -1,0 +1,6 @@
+First method :
+-Interface PlaySong is'n nesessary , we can to unite abstract class Price and interface PlaySong into one abstract class;
+
+Second method :
++More comfortable and compact
+-lost of repeating code
